@@ -1,0 +1,1 @@
+/cita/h/home-3/jleconte/GCM_SRC/LMDZ.GENERIC/makegcm_gfortran -d 64x48x30 -p earth -t 2 -s 1 -b 19x18 gcm

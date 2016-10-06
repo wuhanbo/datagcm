@@ -1,0 +1,10 @@
+# @ job_name=F1366_Earth_obli
+# @ output = $(job_name).$(jobid)
+# @ error = $(output)
+# @ job_type = serial
+# @ class = D
+# @ queue
+
+chain_run
+
+exit 0
